@@ -1,0 +1,17 @@
+.buttonDiv{
+  display: block;
+  margin: 5%;
+  background-color:bisque;
+}
+button{
+  background-color: aquamarine;
+  margin: 0.5rem;
+  border: 1px solid black;
+  color: darkblue;
+  border-radius: 5px;
+  padding: 10px;
+}
+button:hover{
+  cursor: pointer;
+  background-color: aqua;
+}
